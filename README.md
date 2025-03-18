@@ -3,7 +3,7 @@
 Dual bachelor's degree in Mathematics and Computer Science
 
 # 💫 About Me:
-🔭 I’m currently working on several AI projects (trustworthy, computer vision)<br>🌱 Eager to become a data engineer<br>💬 Ask me about anything<br>🐦 Fun fact:  bird lover and owner
+🔭 I’m currently working on several AI projects (trustworthy, computer vision)<br>🌱 Eager to become a data scientist<br>💬 Ask me about anything<br>🐦 Fun fact:  bird lover and owner
 
 
 ## 🌐 Socials:
